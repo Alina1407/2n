@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="82px" viewBox="0 0 120 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="秃鹰基金-投资区域价值-区域规模变量-copy" transform="translate(-814.000000, -727.000000)">
+            <g id="Group-13" transform="translate(814.000000, 727.000000)">
+                <path d="M4,0 L116,-2.22044605e-15 C118.209139,-2.6262583e-15 120,1.790861 120,4 L120,70.9677621 C120,73.1769011 118.209139,74.9677621 116,74.9677621 L70.2756121,74.9677621 L60,82 L49.4304276,74.9677621 L4,74.9677621 C1.790861,74.9677621 1.04120096e-14,73.1769011 6.21724894e-15,70.9677621 L0,4 C-1.25159629e-15,1.790861 1.790861,-4.82366169e-16 4,-8.8817842e-16 Z" id="Rectangle-3" fill="#FFFFFF"></path>
+                <g id="Group-2" transform="translate(17.000000, 15.000000)" fill="#9A0909" font-weight="normal">
+                    <text id="3602万" font-family="Helvetica" font-size="22" letter-spacing="1.833333">
+                        <tspan x="0" y="21">3602</tspan>
+                        <tspan x="56.2747382" y="21" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="1.680556">万</tspan>
+                    </text>
+                    <text id="累计规模" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" letter-spacing="2">
+                        <tspan x="11" y="44">累计规</tspan>
+                        <tspan x="59" y="44">模</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

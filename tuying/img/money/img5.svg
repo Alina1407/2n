@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1808px" height="547px" viewBox="0 0 1808 547" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="秃鹰基金-投资区域价值-区域规模变量-copy" transform="translate(-112.000000, -401.000000)">
+            <g id="Group-7" transform="translate(112.000000, 398.000000)">
+                <path d="M100.697337,240.25 L1808.02514,240.25" id="Line-Copy" stroke="#4E4E4E" stroke-linecap="square"></path>
+                <path d="M100.697337,139.25 L1808.02514,139.25" id="Line-Copy-5" stroke="#4E4E4E" stroke-linecap="square"></path>
+                <path d="M100.697337,341.25 L1808.02514,341.25" id="Line-Copy-2" stroke="#4E4E4E" stroke-linecap="square"></path>
+                <path d="M100.697337,442.25 L1808.02514,442.25" id="Line-Copy-3" stroke="#4E4E4E" stroke-linecap="square"></path>
+                <path d="M101.451848,542.5 L1808.77966,542.5" id="Line-Copy-4" stroke="#4E4E4E" stroke-linecap="square"></path>
+                <text id="0" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#A9A8A8">
+                    <tspan x="34" y="549">0</tspan>
+                </text>
+                <text id="2000" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" letter-spacing="2" fill="#A9A8A8">
+                    <tspan x="0" y="447">200</tspan>
+                    <tspan x="32.6953125" y="447">0</tspan>
+                </text>
+                <text id="4000" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" letter-spacing="2" fill="#A9A8A8">
+                    <tspan x="0" y="346">400</tspan>
+                    <tspan x="32.6953125" y="346">0</tspan>
+                </text>
+                <text id="6000" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" letter-spacing="2" fill="#A9A8A8">
+                    <tspan x="0" y="245">600</tspan>
+                    <tspan x="32.6953125" y="245">0</tspan>
+                </text>
+                <text id="8000" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" letter-spacing="2" fill="#A9A8A8">
+                    <tspan x="0" y="147">800</tspan>
+                    <tspan x="32.6953125" y="147">0</tspan>
+                </text>
+                <text id="单位：万元" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" letter-spacing="1.777778" fill="#A9A8A8">
+                    <tspan x="1" y="17">单位：万元</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

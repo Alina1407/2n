@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="253px" height="211px" viewBox="0 0 253 211" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="秃鹰基金-规模和价值" transform="translate(-112.000000, -217.000000)">
+            <g id="Group-4" transform="translate(112.000000, 213.000000)">
+                <g id="Group-2">
+                    <path d="M2,48 L62,48" id="Line-3-Copy" stroke="#800000" stroke-width="4" stroke-linecap="square"></path>
+                    <text id="规模和价值" font-family="PingFangSC-Regular, PingFang SC" font-size="30" font-weight="normal" letter-spacing="2" fill="#333333">
+                        <tspan x="0" y="32">规模和价值</tspan>
+                    </text>
+                    <text id="REGIONAL-VALUE-OF-IN" font-family="Arial-ItalicMT, Arial" font-size="14" font-style="italic" font-weight="normal" fill="#333333">
+                        <tspan x="0" y="73">REGIONAL VALUE OF INVESTMENT</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(0.000000, 197.000000)">
+                    <text id="抵押物市场价值" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" letter-spacing="1.714286" fill="#333333">
+                        <tspan x="28" y="13">抵押物市场价值</tspan>
+                    </text>
+                    <text id="权益规模" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="12" font-weight="normal" letter-spacing="1.714286" fill="#333333">
+                        <tspan x="200" y="13">权益规模</tspan>
+                    </text>
+                    <rect id="Rectangle-Copy-23" fill="#800000" x="0" y="0" width="18" height="18" rx="9"></rect>
+                    <rect id="Rectangle-Copy-22" fill="#333333" x="172" y="0" width="18" height="18" rx="9"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

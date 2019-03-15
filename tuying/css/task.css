@@ -1,0 +1,156 @@
+/* money-1 */
+.money-1 {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top:100px;
+}
+.work-tab-aa {
+	text-align: right;
+	margin-top: 1em;
+	margin-right: 110px;
+	color: #fff;
+	position: relative;
+	z-index: 999;
+}
+.work-tab-aa a {
+	color: #ffffff;
+	padding:0.5em 0.8em;
+	
+}
+.work-tab-aa a.active {
+	background:#800000;
+	color: #fff;
+}
+.money-tab {
+	text-align: right;
+	margin-top: 1em;
+	margin-right: 110px;
+	position: relative;
+	z-index: 9999;
+}
+.money-tab a {
+	color: #A9A8A8;
+	padding:0.5em 0.8em;
+}
+.money-tab a.active {
+	border:1px solid #ffffff;
+	border-radius: 2px;
+	color: #ffffff;
+}
+.money-2-con {
+	position: relative;
+}
+.money-2-con-con {
+	position: absolute;
+	bottom:-20px;
+	width: 70%;
+	height: calc(100% - 100px);
+	margin-left: 15%;
+}
+
+.money-2-con-con img {
+	width: 4em;
+}
+.money-2-img {
+	opacity: 0;
+}
+.money-2-con-con div {
+	align-items: flex-end;
+    display: flex;
+    height: 100%;
+    float: left;
+    margin: 0 5.5em;
+	opacity: 0.8;
+	padding:0 5px;
+	border-radius: 5px;
+	
+}
+.money-2-con-con div:hover {
+	background: rgba(255,255,255,0.2);
+	height: 100%;
+	opacity: 1;
+}
+.money-2-con-con div:hover .money-2-img {
+	opacity: 1;
+}
+
+/* banner6 */
+.index-tab p {
+	cursor: pointer;
+}
+.index-tab p.active {
+	color: #960005;
+}
+.index-penal img {
+	display: none;
+}
+.index-penal {
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	background: #fff;
+}
+.index-penal img.active {
+	display: inline-block;
+}
+.money-pen-list {
+	overflow-y: scroll;
+	display: none;
+	width: 100%;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+.money-pen-list.active {
+	display: inline-block;
+}
+.money-pen-list .money-pen-list-t img {
+	display: inline-block;
+}
+.money-pen-list .money-pen-list-t {
+	height: 80px;
+	text-align: center;
+	line-height: 80px;
+	background: #333333;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	color: #fff;
+	/* padding:0 2em; */
+}
+.money-pen-list .money-pen-list-t span {
+	display: inline-block;
+	width: 20%;
+}
+.money-pen-list .money-pen-list-l{
+	padding:20px 0;
+	border-bottom: 1px solid #DFDFDF;
+	cursor: pointer;
+	position: relative;
+	top:0;
+	transition: top 1s;
+	-moz-transition: top 1s;	/* Firefox 4 */
+	-webkit-transition: top 1s;	/* Safari 和 Chrome */
+	-o-transition: top 1s;	/* Opera */
+}
+.money-pen-list .money-pen-list-l:nth-of-type(2n){
+	background: #E3E3E3;
+}
+.money-pen-list .money-pen-list-l span {
+	display: inline-block;
+	width: 20%;
+}
+.money-pen-list .money-pen-list-l:hover {
+	position: relative;
+	border-radius: 10px;
+	font-size: 1.2em;
+	border-bottom:none;
+	top:-1em;
+	color: #960005;
+	z-index: 1000;
+	background: #ffffff;
+	/* padding:1em; */
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.money-pen-list-div {
+	height: 400px;
+	margin-bottom: -10px;
+}

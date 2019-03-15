@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1850.000000, -560.000000)">
+            <g id="Group-6" transform="translate(1850.000000, 560.000000)">
+                <rect id="Rectangle-24" fill="#960005" transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) " x="0" y="0" width="70" height="70"></rect>
+                <g id="Icon-/-40-/-White-/-Arrow-Left" transform="translate(35.500000, 35.000000) scale(-1, 1) translate(-35.500000, -35.000000) translate(28.000000, 21.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M14.4603204,15.386144 L3.14568495,27.4253254 C2.42593747,28.1915582 1.25899029,28.1915582 0.539592227,27.4253254 C-0.179864076,26.6597742 -0.179864076,25.4181238 0.539592227,24.6526346 L10.5512978,13.9997986 L0.53988341,3.34733439 C-0.179572892,2.58147337 -0.179572892,1.33994693 0.53988341,0.574395758 C1.25933971,-0.191465253 2.42622865,-0.191465253 3.14597613,0.574395758 L14.4606116,12.6137631 C14.8203398,12.9967246 15,13.4981067 15,13.9997366 C15,14.5016145 14.8199903,15.0033684 14.4603204,15.386144 Z" id="Shape" transform="translate(7.500000, 14.000000) rotate(180.000000) translate(-7.500000, -14.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

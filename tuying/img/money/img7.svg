@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="103px" height="121px" viewBox="0 0 103 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#901818" offset="0%"></stop>
+            <stop stop-color="#F14040" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4.35456,0 L41.64544,0 C44.0503971,-4.41783449e-16 46,1.94960292 46,4.35456 L46,71 L0,71 L0,4.35456 C-2.94522299e-16,1.94960292 1.94960292,6.65903239e-15 4.35456,6.21724894e-15 Z" id="path-2"></path>
+        <filter x="-34.8%" y="-19.7%" width="169.6%" height="145.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#9A9A9A" offset="0%"></stop>
+            <stop stop-color="#EBEBEB" offset="100%"></stop>
+        </linearGradient>
+        <path d="M41.35456,30 L78.64544,30 C81.0503971,30 83,31.9496029 83,34.35456 L83,71 L37,71 L37,34.35456 C37,31.9496029 38.9496029,30 41.35456,30 Z" id="path-5"></path>
+        <filter x="-34.8%" y="-34.1%" width="169.6%" height="178.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="秃鹰基金-投资区域价值-区域规模变量-copy" transform="translate(-477.000000, -862.000000)">
+            <g id="Group-9" transform="translate(487.000000, 870.000000)">
+                <text id="1-3月" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#FFFFFF">
+                    <tspan x="15" y="110">1-3月</tspan>
+                </text>
+                <g id="Rectangle-Copy-19" opacity="0.8">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Rectangle-Copy-14">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

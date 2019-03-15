@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="26px" viewBox="0 0 57 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>addr1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="秃鹰基金-投资区域价值-区域规模变量" transform="translate(-733.000000, -528.000000)">
+            <g id="addr1" transform="translate(733.000000, 528.000000)">
+                <path d="M11.5334449,6.56113271e-14 L50.6112,0 C54.1396368,-3.78204476e-15 57,2.86036319 57,6.3888 L57,19.6112 C57,23.1396368 54.1396368,26 50.6112,26 L11.5334449,26 C8.00500808,26 5.14464489,23.1396368 5.14464489,19.6112 L5.14464489,16.7412791 L9.1827995e-13,13 L5.14464489,9.39961645 L5.14464489,6.3888 C5.14464489,2.86036319 8.00500808,4.00816112e-14 11.5334449,-4.4408921e-15 Z" id="Rectangle-41-Copy" fill="#FFFFFF" transform="translate(28.500000, 13.000000) scale(-1, 1) translate(-28.500000, -13.000000) "></path>
+                <text id="北京" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16.56" font-weight="normal" letter-spacing="-0.127776014" fill="#9A0909">
+                    <tspan x="10" y="19">北京</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

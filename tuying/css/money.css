@@ -1,0 +1,257 @@
+/* money-1 */
+.money-1 {
+	width: 1920px;
+	height: 100%;
+	position: fixed;
+	top:100px;
+}
+.work-tab-aa {
+	text-align: right;
+	margin-top: 1em;
+	margin-right: 110px;
+}
+.work-tab-aa a {
+	
+	padding:14px 23px;
+	background: #F0F0F0;
+	margin-right: -5px;;
+	
+}
+.work-tab-aa a.active {
+	background:#800000;
+	color: #fff;
+}
+.money-tab {
+	text-align: right;
+	margin-top: 1em;
+	margin-right: 110px;
+	position: relative;
+	z-index: 9999;
+}
+.money-tab a {
+	color: #A9A8A8;
+	padding:0.5em 0.8em;
+}
+.money-tab a.active {
+	border:1px solid #ffffff;
+	border-radius: 2px;
+	color: #ffffff;
+}
+.money-2-con-right {
+	width: 828px;
+	float: right;
+	margin-right: 110px;
+	margin-top:174px;
+}
+.money-2-con {
+	position: relative;
+	width: 1111px;
+	float: right;
+}
+.money-2-con-con {
+	position: absolute;
+	bottom:0;
+	width: 70%;
+	height: calc(100% - 100px);
+	margin-left: 15%;
+}
+
+.money-2-con-con img {
+	width: 83px;
+}
+.money-2-img {
+	opacity: 0;
+}
+.money-2-con-con div {
+	align-items: flex-end;
+    display: flex;
+    height: 100%;
+    float: left;
+    margin: 0 5.5em;
+	opacity: 0.8;
+	padding:0 5px;
+	border-radius: 5px;
+	
+}
+.money-2-con-con div:hover {
+	background: rgba(255,255,255,0.2);
+	height: 100%;
+	opacity: 1;
+}
+.money-2-con-con div:hover .money-2-img {
+	opacity: 1;
+}
+
+/* banner6 */
+.index-tab p {
+	cursor: pointer;
+	line-height: 40px;
+}
+.index-tab p.active {
+	color: #800000;
+	font-weight: 900;
+	border-bottom: 4px solid #800000;
+}
+.index-penal img {
+	display: none;
+}
+.index-penal {
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	background: #fff;
+}
+.index-penal img.active {
+	display: inline-block;
+}
+.money-pen-list {
+	overflow-y: scroll;
+	display: none;
+	width: 100%;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+.money-pen-list.active {
+	display: inline-block;
+}
+.money-pen-list .money-pen-list-t img {
+	display: inline-block;
+}
+.money-pen-list .money-pen-list-t {
+	height: 80px;
+	text-align: center;
+	line-height: 80px;
+	background: #333333;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	color: #fff;
+	padding:0 2em;
+}
+.money-pen-list .money-pen-list-t span {
+	display: inline-block;
+	width: 20%;
+}
+.money-pen-list .money-pen-list-l{
+	margin:0 2em;
+	padding:20px 0;
+	/* height:3.4em; */
+	border-bottom: 1px solid #DFDFDF;
+	cursor: pointer;
+	position: relative;
+	top:0;
+	transition: top 1s;
+	-moz-transition: top 1s;	/* Firefox 4 */
+	-webkit-transition: top 1s;	/* Safari 和 Chrome */
+	-o-transition: top 1s;	/* Opera */
+}
+.money-pen-list .money-pen-list-l span {
+	display: inline-block;
+	width: 20%;
+}
+.money-pen-list .money-pen-list-l:hover {
+	position: relative;
+	border-radius: 10px;
+	/* margin:0; */
+	border-bottom:none;
+	top:-1em;
+	color: #960005;
+	z-index: 1000;
+	background: #ffffff;
+	/* padding:1em; */
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.money-pen-list .money-pen-list-l:hover span:nth-of-type(1){
+	font-size:1.5em;
+}
+.money-pen-list-div {
+	height: 350px;
+	
+}
+
+.map {
+	width: 600px;
+	top: -50px;
+	position: relative;
+	zoom:1.5;
+	
+}
+.map img.addr {
+	position: absolute;
+	width: 35px;
+	cursor: pointer;
+	transform:scale(1);
+	bottom: 0;
+	transition: transform 1s;
+	-moz-transition: transform 1s;	/* Firefox 4 */
+	-webkit-transition: transform 1s;	/* Safari 和 Chrome */
+	-o-transition: transform 1s;	/* Opera */
+}
+.map img.addr:hover {
+	transform: scale(1.15);
+}
+
+.map img.addr1 {
+	bottom: 285px;
+	right: 170px;
+}
+.map img.addr2 {
+	bottom: 265px;
+	right: 103px;
+}
+.map img.addr3 {
+	bottom: 238px;
+	right: 145px;
+}
+.map img.addr4 {
+	bottom: 158px;
+	right: 240px;
+}
+.map img.addr5 {
+	bottom: 158px;
+	right: 128px;
+}
+.map img.addr6 {
+	bottom: 240px;
+	right: 72px;
+}
+.map img.addr7 {
+	bottom: 173px;
+	right: 48px;
+}
+.map img.addr8 {
+	bottom: 200px;
+	right: 73px;
+}
+
+.money-echarts {
+	width: 690px;
+	height: 482px;
+	background: #333;
+	text-align: left;
+	box-shadow: 0 0 40px rgba(0,0,0,0.5);
+	margin-top: 100px;
+}
+.money-echarts img {
+	margin:76px  0 0 52px;
+}
+#map1 {
+	width: 540px;
+	color: #fff;
+	height: 350px;
+	margin-bottom: 50px;
+	margin-left: 76px;
+}
+.money-2-4 {
+	position: fixed;
+	bottom:0;
+	width: 100%;
+	height: 600px;
+	left: 0;
+}
+.money-2-tab {
+	position: absolute;
+	right: 110px;
+}
+	
+.money-2-tab p {
+	font-size: 16px;
+	/* margin-top: 32px; */
+}

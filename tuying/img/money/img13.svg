@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1302px" height="596px" viewBox="0 0 1302 596" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,0 L1204,-2.48689958e-14 C1215.04569,-2.6898057e-14 1224,8.954305 1224,20 L1224,176.04133 L1224,518 L438.312491,518 L0,518 L0,20 C-1.3527075e-15,8.954305 8.954305,2.02906125e-15 20,0 Z" id="path-1"></path>
+        <filter x="-5.3%" y="-10.0%" width="110.6%" height="125.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="13" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="19.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.4   0 0 0 0 0.4   0 0 0 0 0.4  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="83" y="99" width="1057" height="76" rx="8"></rect>
+        <filter x="-5.3%" y="-60.5%" width="110.6%" height="247.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.893202594   0 0 0 0 0.893202594   0 0 0 0 0.893202594  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="秃鹰基金-投资区域价值-TOP前五-单一债权回款金额" transform="translate(-546.000000, -371.000000)">
+            <g id="Group-2" transform="translate(585.000000, 397.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="3400-copy-4" mask="url(#mask-2)" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="18" font-weight="normal" letter-spacing="3.326939" fill="#666666">
+                    <tspan x="855" y="144">3400</tspan>
+                </text>
+                <path d="M20,0 L1204,0 C1215.04569,-2.02906125e-15 1224,8.954305 1224,20 L1224,125 L0,125 L0,20 C-1.3527075e-15,8.954305 8.954305,2.02906125e-15 20,0 Z" id="Rectangle-9" fill="#333333"></path>
+                <g id="Group-12" transform="translate(945.000000, 39.000000)" fill="#FFFFFF">
+                    <text id="时间/季度" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="20" font-weight="normal" letter-spacing="3.696599">
+                        <tspan x="0" y="21">时间/季度</tspan>
+                    </text>
+                    <polygon id="Rectangle-17" points="130.134244 21 123 11 138 11"></polygon>
+                </g>
+                <g id="Rectangle-6">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <text id="排名" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="20" font-weight="normal" letter-spacing="3.696599" fill="#FFFFFF">
+                    <tspan x="171" y="57">排名           </tspan>
+                </text>
+                <text id="回款金额" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="20" font-weight="normal" letter-spacing="3.696599" fill="#FFFFFF">
+                    <tspan x="698" y="57">回款金额</tspan>
+                </text>
+                <text id="项目名称" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="20" font-weight="normal" letter-spacing="3.696599" fill="#FFFFFF">
+                    <tspan x="403" y="57">项目名称           </tspan>
+                </text>
+                <text id="1-3月" font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="2" fill="#9A0909">
+                    <tspan x="982" y="144">1-3</tspan>
+                    <tspan x="1016.90625" y="144" font-family="PingFangSC-Regular, PingFang SC">月</tspan>
+                </text>
+                <text id="1-3月" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#333333">
+                    <tspan x="986" y="229">1-3</tspan>
+                    <tspan x="1017.02083" y="229" letter-spacing="1.580247">月</tspan>
+                </text>
+                <text id="1-3月" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#333333">
+                    <tspan x="986" y="304">1-3</tspan>
+                    <tspan x="1017.02083" y="304" letter-spacing="1.580247">月</tspan>
+                </text>
+                <text id="1-3月" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#333333">
+                    <tspan x="986" y="379">1-3</tspan>
+                    <tspan x="1017.02083" y="379" letter-spacing="1.580247">月</tspan>
+                </text>
+                <text id="1-3月" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="2" fill="#333333">
+                    <tspan x="986" y="454">1-3月</tspan>
+                </text>
+                <text id="01" font-family="Helvetica" font-size="32" font-weight="normal" letter-spacing="3.2" fill="#9A0909">
+                    <tspan x="169" y="148">0</tspan>
+                    <tspan x="189.996875" y="148" letter-spacing="5.12">1</tspan>
+                </text>
+                <text id="02" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="18" font-weight="normal" letter-spacing="2" fill="#333333">
+                    <tspan x="181" y="229">0</tspan>
+                    <tspan x="193.555664" y="229">2</tspan>
+                </text>
+                <text id="03" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="18" font-weight="normal" letter-spacing="2" fill="#333333">
+                    <tspan x="181" y="304">0</tspan>
+                    <tspan x="193.555664" y="304">3</tspan>
+                </text>
+                <text id="04" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="18" font-weight="normal" letter-spacing="2" fill="#333333">
+                    <tspan x="181" y="379">0</tspan>
+                    <tspan x="193.555664" y="379">4</tspan>
+                </text>
+                <text id="05" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="18" font-weight="normal" letter-spacing="2" fill="#333333">
+                    <tspan x="181" y="454">0</tspan>
+                    <tspan x="193.555664" y="454">5</tspan>
+                </text>
+                <text id="债权A" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" letter-spacing="2" fill="#9A0909">
+                    <tspan x="419" y="146">债权</tspan>
+                    <tspan x="463" y="146" font-family="Helvetica">A</tspan>
+                </text>
+                <text id="债权B" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#333333">
+                    <tspan x="423" y="229">债权</tspan>
+                    <tspan x="458.555556" y="229" letter-spacing="1.580247">B</tspan>
+                </text>
+                <text id="债权C" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#333333">
+                    <tspan x="423" y="304">债权</tspan>
+                    <tspan x="458.555556" y="304" letter-spacing="1.580247">C</tspan>
+                </text>
+                <text id="债权D" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#333333">
+                    <tspan x="421" y="379">债权</tspan>
+                    <tspan x="456.555556" y="379" letter-spacing="1.580247">D</tspan>
+                </text>
+                <text id="债权E" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#333333">
+                    <tspan x="425" y="454">债权</tspan>
+                    <tspan x="460.555556" y="454" letter-spacing="1.580247">E</tspan>
+                </text>
+                <text id="3000万" font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="2" fill="#9A0909">
+                    <tspan x="704" y="143">3000</tspan>
+                    <tspan x="756.492188" y="143" font-family="PingFangSC-Regular, PingFang SC">万</tspan>
+                </text>
+                <text id="3000万-copy" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#333333">
+                    <tspan x="709" y="229">3000</tspan>
+                    <tspan x="753.642362" y="229" letter-spacing="1.580247">万</tspan>
+                </text>
+                <text id="3000万-copy-2" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#333333">
+                    <tspan x="708" y="304">3000</tspan>
+                    <tspan x="752.642362" y="304" letter-spacing="1.580247">万</tspan>
+                </text>
+                <text id="3000万-copy-3" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="16" font-weight="normal" letter-spacing="1.777778" fill="#333333">
+                    <tspan x="708" y="379">3000</tspan>
+                    <tspan x="752.642362" y="379" letter-spacing="1.580247">万</tspan>
+                </text>
+                <text id="3000万-copy-4" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="18" font-weight="normal" letter-spacing="2" fill="#333333">
+                    <tspan x="708" y="454">3000</tspan>
+                    <tspan x="758.222656" y="454">万</tspan>
+                </text>
+                <path d="M84.6215211,257.244599 L1139.5,257.244599" id="Line-5-Copy-3" stroke="#DFDFDF" stroke-linecap="square"></path>
+                <path d="M83.6215211,332.244599 L1138.5,332.244599" id="Line-5-Copy-4" stroke="#DFDFDF" stroke-linecap="square"></path>
+                <path d="M83.6215211,407.244599 L1138.5,407.244599" id="Line-5-Copy-5" stroke="#DFDFDF" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

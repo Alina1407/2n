@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="70px" viewBox="0 0 241 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="秃鹰基金-投资区域价值-区域规模" transform="translate(-112.000000, -217.000000)">
+            <g id="Group-3" transform="translate(112.000000, 213.000000)">
+                <path d="M2,48 L62,48" id="Line-3-Copy" stroke="#800000" stroke-width="4" stroke-linecap="square"></path>
+                <text id="投资区域价值" font-family="PingFangSC-Regular, PingFang SC" font-size="30" font-weight="normal" letter-spacing="2" fill="#333333">
+                    <tspan x="0" y="32">投资区域价</tspan>
+                    <tspan x="160" y="32">值</tspan>
+                </text>
+                <text id="REGIONAL-VALUE-OF-IN" font-family="Arial-ItalicMT, Arial" font-size="14" font-style="italic" font-weight="normal" fill="#333333">
+                    <tspan x="0" y="73">REGIONAL VALUE OF INVESTMENT</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

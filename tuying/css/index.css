@@ -1,0 +1,60 @@
+.banner {
+	position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.banner a {
+	display: inline-block;
+	width: 100%;
+	height:100%;
+}
+.swiper-button-prev {
+	width: 70px;
+	height: 70px;
+	left: 0;
+}
+.swiper-button-next {
+	width: 70px;
+	height: 70px;
+	right: 0;
+}
+.in-ban1 {
+	
+}
+/* banner3 */
+.banner3-list {
+	position: relative;
+	overflow: hidden;
+	cursor: pointer;
+	text-align: center;
+	
+}
+.banner3-list div {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	background: none;
+	transition: background 1s;
+	-moz-transition: background 1s;	/* Firefox 4 */
+	-webkit-transition: background 1s;	/* Safari 和 Chrome */
+	-o-transition: background 1s;	/* Opera */
+}
+.banner3-list:hover div {
+	background: #960005;
+}
+/* banner6 */
+.index-tab p {
+	cursor: pointer;
+	font-size: 18px;
+	font-weight: 600;
+}
+.index-tab p.active {
+	color: #960005;
+}
+.index-penal img {
+	display: none;
+}
+.index-penal img.active {
+	display: inline-block;
+}

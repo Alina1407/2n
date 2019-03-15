@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1802px" height="605px" viewBox="0 0 1802 605" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="1" width="816" height="240" rx="4"></rect>
+        <filter x="-8.9%" y="-29.6%" width="117.9%" height="160.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="24" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.777078019   0 0 0 0 0.777078019   0 0 0 0 0.777078019  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="269" width="816" height="240" rx="4"></rect>
+        <filter x="-8.9%" y="-29.6%" width="117.9%" height="160.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="24" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.777078019   0 0 0 0 0.777078019   0 0 0 0 0.777078019  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M863,1 L1505.94231,1 L1702,1 C1704.20914,1 1706,2.790861 1706,5 L1706,506 C1706,508.209139 1704.20914,510 1702,510 L863,510 C860.790861,510 859,508.209139 859,506 L859,5 C859,2.790861 860.790861,1 863,1 Z" id="path-5"></path>
+        <filter x="-8.6%" y="-13.9%" width="117.2%" height="128.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="24" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.777078019   0 0 0 0 0.777078019   0 0 0 0 0.777078019  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M1446.8,96 L1447.2,96 C1531.03683,96 1599,163.963175 1599,247.8 L1599,248.2 C1599,332.036825 1531.03683,400 1447.2,400 L1446.8,400 C1362.96317,400 1295,332.036825 1295,248.2 L1295,247.8 C1295,163.963175 1362.96317,96 1446.8,96 Z M1447.5,120 C1376.53141,120 1319,177.53141 1319,248.5 C1319,319.46859 1376.53141,377 1447.5,377 C1518.46859,377 1576,319.46859 1576,248.5 C1576,177.53141 1518.46859,120 1447.5,120 Z" id="path-7"></path>
+        <path d="M455,447 C471.899665,447 482.598764,441.808634 487.097296,431.425903 C493.845095,415.851805 502.369295,411.249412 527.045275,411.249412 C543.495928,411.249412 558.481682,404.417339 572.002537,390.753193 C585.326949,377.089047 604.005821,377.089047 628.039154,390.753193 C652.072486,404.417339 670.726102,395.166274 684,363" id="path-9"></path>
+        <filter x="-26.6%" y="-43.1%" width="153.8%" height="246.6%" filterUnits="objectBoundingBox" id="filter-10">
+            <feMorphology radius="4.4" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="26" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="4.4" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="26" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="14.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.503879677   0 0 0 0 0.497348566   0 0 0 0 0.497348566  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M453,178 C469.899665,178 480.598764,172.808634 485.097296,162.425903 C491.845095,146.851805 500.369295,142.249412 525.045275,142.249412 C541.495928,142.249412 556.481682,135.417339 570.002537,121.753193 C583.326949,108.089047 602.005821,108.089047 626.039154,121.753193 C650.072486,135.417339 668.726102,126.166274 682,94" id="path-11"></path>
+        <filter x="-26.6%" y="-43.1%" width="153.8%" height="246.6%" filterUnits="objectBoundingBox" id="filter-12">
+            <feMorphology radius="4.4" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="26" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="4.4" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="26" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="14.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.503879677   0 0 0 0 0.497348566   0 0 0 0 0.497348566  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="秃鹰基金-投资区域价值-项目规模" transform="translate(-59.000000, -379.000000)">
+            <g id="Group-2" transform="translate(107.000000, 424.000000)">
+                <g id="Rectangle-8" opacity="0.84">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Rectangle-8-Copy-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="Rectangle-8-Copy-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <path d="M5,1 L310,1 L310,241 L5,241 C2.790861,241 1,239.209139 1,237 L1,5 C1,2.790861 2.790861,1 5,1 Z" id="card-copy-3" fill="#333333"></path>
+                <path d="M863,0 L1168,0 L1168,509 L863,509 C860.790861,509 859,507.209139 859,505 L859,4 C859,1.790861 860.790861,4.05812251e-16 863,0 Z" id="card-copy-4" fill="#333333"></path>
+                <path d="M4,269 L309,269 L309,509 L4,509 C1.790861,509 2.705415e-16,507.209139 0,505 L0,273 C-2.705415e-16,270.790861 1.790861,269 4,269 Z" id="card-copy-5" fill="#333333"></path>
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Mask" fill="#800000" xlink:href="#path-7"></use>
+                <polygon id="Path-4" fill="#333333" mask="url(#mask-8)" points="1456.24394 79 1456.24394 285.021739 1352 390.372873 1441.14346 430 1599.69855 390.372873 1645 212.532609 1550.62197 98.076087"></polygon>
+                <text id="55%" font-family="Arial-BoldMT, Arial" font-size="60" font-weight="bold" fill="#333333">
+                    <tspan x="1403" y="267">55</tspan>
+                    <tspan x="1469.73828" y="267" font-family="ArialMT, Arial" font-size="30" font-weight="normal">%</tspan>
+                </text>
+                <text id="通过率" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#333333">
+                    <tspan x="1429" y="293">通过率</tspan>
+                </text>
+                <path d="" id="Path-11" stroke="#979797"></path>
+                <path d="" id="Path-11-Copy-2" stroke="#979797"></path>
+                <text id="12亿" font-family="Helvetica" font-size="50" font-weight="normal" letter-spacing="2" fill="#333333">
+                    <tspan x="373" y="90">12</tspan>
+                    <tspan x="432.615234" y="90" font-family="PingFangSC-Regular, PingFang SC" font-size="30">亿</tspan>
+                </text>
+                <text id="6亿" font-family="Helvetica" font-size="50" font-weight="normal" letter-spacing="2" fill="#333333">
+                    <tspan x="378" y="362">6</tspan>
+                    <tspan x="407.807617" y="362" font-family="PingFangSC-Regular, PingFang SC" font-size="30">亿</tspan>
+                </text>
+                <g id="Path-12-Copy-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    <use stroke="#800000" stroke-width="8.8" xlink:href="#path-9"></use>
+                </g>
+                <g id="Path-12-Copy-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                    <use stroke="#800000" stroke-width="8.8" xlink:href="#path-11"></use>
+                </g>
+                <g id="Group-2-Copy" transform="translate(132.000000, 417.000000)" fill="#FFFFFF" opacity="0.0848772321">
+                    <polygon id="Path-33" points="0 92 92.4597118 0 155 92"></polygon>
+                    <polygon id="Path-33-Copy" points="119 92 185.213084 25 230 92"></polygon>
+                </g>
+                <g id="Group-2-Copy-3" transform="translate(143.000000, 150.000000)" fill="#FFFFFF" opacity="0.0848772321">
+                    <polygon id="Path-33" points="0 92 92.4597118 0 155 92"></polygon>
+                    <polygon id="Path-33-Copy" points="119 92 185.213084 25 230 92"></polygon>
+                </g>
+                <g id="Group-2-Copy-2" transform="translate(992.000000, 417.000000)" fill="#FFFFFF" opacity="0.0848772321">
+                    <polygon id="Path-33" points="0 92 92.4597118 0 155 92"></polygon>
+                    <polygon id="Path-33-Copy" points="119 92 185.213084 25 230 92"></polygon>
+                </g>
+                <path d="M49,66 L79,66" id="Line-2-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
+                <text id="截止2018年" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" letter-spacing="2.333333" fill="#FFFFFF">
+                    <tspan x="47" y="97">截止2018年</tspan>
+                </text>
+                <g id="Group-3" transform="translate(905.000000, 198.000000)">
+                    <text id="年度通过率" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" letter-spacing="2" fill="#FFFFFF">
+                        <tspan x="0" y="86">年度通过率</tspan>
+                    </text>
+                    <path d="M2,1 L32,1" id="Line-2-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
+                    <text id="ANNUAL-PASS-RATE" font-family="Arial-ItalicMT, Arial" font-size="14" font-style="italic" font-weight="normal" letter-spacing="1.75" fill="#FFFFFF">
+                        <tspan x="0" y="110">ANNUAL PASS RATE</tspan>
+                    </text>
+                    <text id="截止2018年" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" letter-spacing="2.333333" fill="#FFFFFF">
+                        <tspan x="0" y="32">截止2018年</tspan>
+                    </text>
+                </g>
+                <text id="立项规模" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" letter-spacing="2" fill="#FFFFFF">
+                    <tspan x="46" y="427">立项规模</tspan>
+                </text>
+                <path d="M48,342 L78,342" id="Line-2-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></path>
+                <text id="PROJECT-SIZE" font-family="Arial-ItalicMT, Arial" font-size="14" font-style="italic" font-weight="normal" letter-spacing="1.75" fill="#FFFFFF">
+                    <tspan x="46" y="451">PROJECT SIZE</tspan>
+                </text>
+                <text id="截止2018年" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" letter-spacing="2.333333" fill="#FFFFFF">
+                    <tspan x="46" y="373">截止2018年</tspan>
+                </text>
+                <text id="获取的项目规模" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" letter-spacing="2" fill="#FFFFFF">
+                    <tspan x="47" y="151">获取的项目规模</tspan>
+                </text>
+                <text id="OBTAINED-PROJECT-SIZ" font-family="Arial-ItalicMT, Arial" font-size="14" font-style="italic" font-weight="normal" letter-spacing="1.75" fill="#FFFFFF">
+                    <tspan x="47" y="175">OBTAINED PROJECT SIZE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

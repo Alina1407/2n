@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="779px" height="86px" viewBox="0 0 779 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-关于秃鹰" transform="translate(-191.000000, -445.000000)">
+            <g id="Group-4" transform="translate(191.000000, 429.000000)">
+                <text id="10年" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="60" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="0" y="63">10</tspan>
+                    <tspan x="70.3710938" y="63" font-size="16">年</tspan>
+                </text>
+                <text id="行业投资经验" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="0" y="100">行业投资经验</tspan>
+                </text>
+                <g id="Group-3" transform="translate(219.000000, 0.000000)" fill="#FFFFFF" font-family="MicrosoftYaHei, Microsoft YaHei" font-weight="normal">
+                    <text id="6省" font-size="60">
+                        <tspan x="0" y="63">6</tspan>
+                        <tspan x="35.1855469" y="63" font-size="16">省</tspan>
+                    </text>
+                    <text id="投资范围" font-size="14">
+                        <tspan x="0" y="100">投资范围</tspan>
+                    </text>
+                </g>
+                <text id="200亿" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="60" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="433" y="63">200</tspan>
+                    <tspan x="538.556641" y="63" font-size="16">亿</tspan>
+                </text>
+                <text id="资产处置累计" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="452" y="100">资产处置累计</tspan>
+                </text>
+                <text id="17家" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="60" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="692" y="63">17</tspan>
+                    <tspan x="762.371094" y="63" font-size="16">家</tspan>
+                </text>
+                <text id="合作机构" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="708" y="100">合作机构</tspan>
+                </text>
+                <path d="M154,44 L154,78" id="Line-7" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path d="M351,47 L351,81" id="Line-7-Copy" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path d="M627,44 L627,78" id="Line-7-Copy-2" stroke="#FFFFFF" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1100px" height="474px" viewBox="0 0 1100 474" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1060" height="434" rx="2"></rect>
+        <filter x="-3.0%" y="-6.5%" width="106.0%" height="114.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.100543478   0 0 0 0 0.0935736388   0 0 0 0 0.0935736388  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2in官网UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="关于我们-秃鹰基金" transform="translate(-412.000000, -326.000000)">
+            <g id="分组-2" transform="translate(432.000000, 342.000000)">
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#333333" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="分组" transform="translate(108.000000, 104.000000)">
+                    <text id="秃鹰资产（BE）的基金结构设计，可以完美" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" line-spacing="30" fill="#FFFFFF">
+                        <tspan x="0" y="87">秃鹰资产（BE）的基金结构设计，可以完美融合监管合规、信任关系、共同管理、信息共享等核心价值。与传统的封闭式模式不同，</tspan>
+                        <tspan x="0" y="117">              （BE）基金凭借结构优势，可以对所管理的资产，提供更高的安全边际及收益稳定性，以及更多元的收益可能。</tspan>
+                    </text>
+                    <text id="秃鹰基金-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="30" font-weight="normal" letter-spacing="2" fill="#FFFFFF">
+                        <tspan x="359" y="32">秃鹰基</tspan>
+                        <tspan x="455" y="32">金</tspan>
+                    </text>
+                    <g id="Group-5-Copy" transform="translate(312.000000, 167.000000)">
+                        <path d="M4,0 L216,0 C218.209139,-4.05812251e-16 220,1.790861 220,4 L220,56 C220,58.209139 218.209139,60 216,60 L4,60 C1.790861,60 2.705415e-16,58.209139 0,56 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle-7" fill="#800000"></path>
+                        <text id="了解更多" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" letter-spacing="1.961142" fill="#FFFFFF">
+                            <tspan x="70" y="37">了解更多</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
