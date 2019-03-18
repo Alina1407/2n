@@ -6,7 +6,7 @@ body {
 	width: 1920px;
 	height: 100%;
 	zoom:0.75;
-	font:"PingFang SC",'Microsoft Yahei','simsun','arial','tahoma';
+	font:'Microsoft Yahei',"PingFang SC",'simsun','arial','tahoma';
     position: fixed;
 }
  /* for Chrome */
@@ -228,4 +228,8 @@ a.balck,.balck {
 }
 .line-height2 {
 	line-height: 2;
+}
+.hrayLi {
+	font-family: arial;
+	font-style: italic;
 }

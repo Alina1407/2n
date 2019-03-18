@@ -73,9 +73,9 @@
 	margin-left: 10%;
 }
 @media screen and (min-width: 1680px) {
-    .about-3-img {
+    /* .about-3-img {
 		width: 45em;
-	}
+	} */
 }
 .swiper-pagination-bullet {
 	width: 12px;
@@ -180,8 +180,8 @@
 	right: 0;
 }
 .about-people-list {
-	width: 80%;
-	margin-left: 10%;
+	width: 1308px;
+	/* margin-left: 10%; */
 	position: relative;
 	display: inline-block;
 	height: 100%;
@@ -195,13 +195,15 @@
 }
 .about-people-list li img:nth-of-type(1) {
 	position: absolute;
-	top: -25em;
-	left: -7em;
+	top: -500px;
+	left: -130px;
+		width: 1308px;
+	/* height:400px; */
 	opacity: 0;
-	width: 95%;
+
 }
 .about-people-list li img:nth-of-type(2) {
-	width: 6em;
+	width: 124px;
 }
 .about-people-list li.active {
 	z-index: 100;
@@ -223,8 +225,8 @@
 	width: 80%;
 }
 .about4-ban  {
-	height: calc(100% - 100px);
-    width: 70%;
+	height: 618px;
+    width: 1308px;
     margin-right: 110px;
     position: fixed;
     top: 100px;
@@ -235,14 +237,15 @@
 	text-align: center;
 }
 .swiper-button-next, .swiper-button-prev {
-	top: 65%;
+	top: 600px;
 }
 .about4-ban .about-people-list li img:nth-of-type(1) {
-	top: -25em;
-	left: 1em;
+	    top: -500px;
+    left: 28px;
+
 }
 @media screen and (min-width: 1680px) {
-	.about-people-list li img:nth-of-type(2) {
+	/* .about-people-list li img:nth-of-type(2) {
 		width: 10em;
 	}
 	.about-people-list {
@@ -266,7 +269,7 @@
 	.about4-ban .about-people-list li img:nth-of-type(1) {
 		top: -30em;
 		left: 2em;
-	}
+	} */
 }
 
 .about-4-con {
